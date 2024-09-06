@@ -1,0 +1,7 @@
+- Developed a comprehensive *Banking Application* using *Spring Boot* and *JSP*, enabling users to create and manage accounts, process deposits, withdrawals, and transfers.
+- Integrated *OTP-based email authentication* to secure all critical transactions, ensuring enhanced security and fraud prevention.
+- Designed a centralized *dashboard* for easy navigation, allowing users to access all banking operations from a single interface.
+- Implemented a *PDF generation feature* to allow users to download their transaction statements, using the iText library.
+- Ensured seamless *backend development* with a scalable architecture, including REST APIs for managing transactions and accounts.
+- Applied *best practices* in security, validation, and testing, ensuring a reliable and efficient banking system.
+- Conducted thorough *testing and debugging*, addressing issues related to transaction processes, OTP verification, and data consistency.
